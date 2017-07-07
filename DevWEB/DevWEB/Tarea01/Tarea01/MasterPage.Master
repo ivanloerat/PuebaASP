@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Tarea01.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <%-- <link href="style.css" rel="stylesheet" type="text/css" />--%>
+    <script src="Scripts/jquery-3.1.1.js"></script>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="divMaster">
+            <div class="titulo">
+                <asp:ContentPlaceHolder ID="Principal" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        
+    </form>
+</body>
+</html>

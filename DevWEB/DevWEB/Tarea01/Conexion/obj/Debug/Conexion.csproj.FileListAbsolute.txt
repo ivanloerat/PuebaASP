@@ -1,0 +1,7 @@
+C:\DevWEB\Tarea01\Conexion\bin\Debug\Conexion.dll
+C:\DevWEB\Tarea01\Conexion\bin\Debug\Conexion.pdb
+C:\DevWEB\Tarea01\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\DevWEB\Tarea01\Conexion\obj\Debug\Conexion.dll
+C:\DevWEB\Tarea01\Conexion\obj\Debug\Conexion.pdb
+C:\DevWEB\Tarea01\Conexion\bin\Debug\Entidades.dll
+C:\DevWEB\Tarea01\Conexion\bin\Debug\Entidades.pdb

@@ -1,0 +1,9 @@
+C:\DevWEB\Tarea01\Datos\bin\Debug\Datos.dll
+C:\DevWEB\Tarea01\Datos\bin\Debug\Datos.pdb
+C:\DevWEB\Tarea01\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\DevWEB\Tarea01\Datos\obj\Debug\Datos.dll
+C:\DevWEB\Tarea01\Datos\obj\Debug\Datos.pdb
+C:\DevWEB\Tarea01\Datos\bin\Debug\Conexion.dll
+C:\DevWEB\Tarea01\Datos\bin\Debug\Entidades.dll
+C:\DevWEB\Tarea01\Datos\bin\Debug\Conexion.pdb
+C:\DevWEB\Tarea01\Datos\bin\Debug\Entidades.pdb
